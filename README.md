@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width">
 <link rel="shortcut icon" href="image/favicon.png">
 <title>WarpWorks</title>
-<link rel="stylesheet" href="css/warpworks.css">
+<link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"> 
 </head>
 
